@@ -9,7 +9,7 @@ if(place_meeting(x, y, obj_Player)&& is_open == false){
 //sprite_index = door_open;
 //}
 
-if (distance_to_object(obj_Player) > 200 && sprite_index == door_open){
+if (distance_to_object(obj_Player) > 150 && sprite_index == door_open){
 is_open = false;
 sprite_index = door_closing;
 }
