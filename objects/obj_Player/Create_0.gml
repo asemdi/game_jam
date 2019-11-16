@@ -3,3 +3,11 @@
 image_speed = 0;
 walkSpeed = 5;
 collisionSpeed = walkSpeed + 2;
+
+hp = 50;
+hp_max = hp;
+
+healthbar_width = 174;
+healthbar_height = 20;
+healthbar_x = 100;
+healthbar_y = 40;

@@ -20,7 +20,7 @@
 */
 
 ds_map_add(argument0, "display", "banner");
-ds_map_add(argument0, "position", "top");
+ds_map_add(argument0, "position", "bottom");
 ds_map_add(argument0, "manual", false);
 ds_map_add(argument0, "manual_x", 0);
 ds_map_add(argument0, "manual_y", 0);
