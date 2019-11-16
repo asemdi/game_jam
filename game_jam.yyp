@@ -82,7 +82,7 @@
             "Key": "6f2cc5c0-e999-4494-8aab-84cd9f252d4f",
             "Value": {
                 "id": "7e08500a-11ab-403b-b0c7-a963d8299565",
-                "resourcePath": "objects\/objterminal\/objterminal.yy",
+                "resourcePath": "objects\/obj_Terminal\/obj_Terminal.yy",
                 "resourceType": "GMObject"
             }
         },
