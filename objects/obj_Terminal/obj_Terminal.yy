@@ -5,13 +5,13 @@
     "name": "obj_Terminal",
     "eventList": [
         {
-            "id": "a19afad0-c0ba-4043-a8f7-77087d79161c",
+            "id": "13e6991f-9401-4761-b6ef-5345bf95965d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 6,
+            "eventtype": 3,
             "m_owner": "6f2cc5c0-e999-4494-8aab-84cd9f252d4f"
         }
     ],

@@ -29,7 +29,7 @@ enum text_debug {NONE=-1,DEBUG=0,INFO=1,WARNING=2,ERROR=3,CRITICAL=4};
  * Set the level of debug. The debug messages of this level and higher
  * will be shown. NONE disables debug messages.
  */
-global.text_debug_level = text_debug.DEBUG;
+global.text_debug_level = text_debug.NONE;
 
 text_debugger("text_setup",text_debug.DEBUG,"SETTING UP TEXT ENGINE");
 
@@ -47,17 +47,17 @@ global.textvars = ds_map_create();
  * in multiplayer games
  * If you don't have players in your game set this to any controling object.
  */
-global.text_local_player = obj_text_demo_player.id;
+global.text_local_player = obj_Player;
 
 /*
  * Rounding of the nameplates
  */
-global.text_roundingname = 0;
+global.text_roundingname = 30;
 
 /*
  * Rounding of the textboxes
  */
-global.text_rounding = 0;
+global.text_rounding = 30;
 
 /*
  * Set this to true do disabled box fading in and out animations
