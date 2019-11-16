@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0d1258f2-b2dc-4505-8028-59d77fac7df6",
+            "Value": {
+                "id": "7586a519-2e08-4f28-b65d-dfaa3d6c7648",
+                "resourcePath": "objects\/obj_Portal\/obj_Portal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d4582b2-c795-497c-a3d7-345fce7aa6ca",
             "Value": {
                 "id": "c7af6bc3-ae70-46b9-a990-32464acbb2bf",
@@ -260,6 +268,14 @@
                 "id": "225b9d7b-dcdb-4705-89af-2c865d574eb5",
                 "resourcePath": "objects\/obj_text_demo_multi\/obj_text_demo_multi.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "352def3e-b683-43c3-a439-1c83da943624",
+            "Value": {
+                "id": "cf27c196-d6f3-46e3-aa94-1cf5cdafba2e",
+                "resourcePath": "sprites\/ream_with_axe_walking\/ream_with_axe_walking.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -511,6 +527,14 @@
             }
         },
         {
+            "Key": "59391982-9fea-4205-a471-102b17dac44d",
+            "Value": {
+                "id": "3e1e0ea0-7435-42b8-adf5-a46088a3a045",
+                "resourcePath": "sprites\/walkingrobot1\/walkingrobot1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5af3de99-f385-4d42-8b1f-ed5e378d0405",
             "Value": {
                 "id": "6eda178e-6d3f-46a9-bba3-9be5740b4f74",
@@ -644,6 +668,14 @@
                 "id": "f74ba3be-400c-48eb-9223-37884e9bef0e",
                 "resourcePath": "tilesets\/tileset_floor\/tileset_floor.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "743e7795-f791-4a26-9a75-d51789eb8bce",
+            "Value": {
+                "id": "3a198ce9-a63f-48a0-a932-f70ae021ebb2",
+                "resourcePath": "sprites\/portal\/portal.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1404,6 +1436,14 @@
                 "id": "03be8304-9b58-4f2d-bdb3-3a765abff53a",
                 "resourcePath": "views\/ed8a1eb6-cd19-4ff8-80c4-119253dd23e2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee5673b7-805d-4c96-86e9-1fa1b4f86bdd",
+            "Value": {
+                "id": "ade57c30-35a0-4595-b8e5-a6d7b9a6778c",
+                "resourcePath": "sprites\/ream_with_axe_standing\/ream_with_axe_standing.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

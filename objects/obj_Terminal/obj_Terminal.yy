@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_Terminal",
     "eventList": [
-        {
-            "id": "a19afad0-c0ba-4043-a8f7-77087d79161c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "6f2cc5c0-e999-4494-8aab-84cd9f252d4f"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
