@@ -1,5 +1,5 @@
 {
-    "id": "70b0369b-f7d1-4b33-bf6f-17a22b7c9ca6",
+    "id": "83b66831-6580-4df9-a8bd-12dabd17bcb4",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_demo3_pointing",

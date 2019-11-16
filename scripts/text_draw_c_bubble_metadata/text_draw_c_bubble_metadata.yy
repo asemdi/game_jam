@@ -1,5 +1,5 @@
 {
-    "id": "9a785799-6a0b-426f-b8d0-d79b52b01617",
+    "id": "9f406f57-9bf8-46a6-98d5-b6dd4c3def11",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_draw_c_bubble_metadata",

@@ -1,5 +1,5 @@
 {
-    "id": "d4d934ae-cfb6-42e9-9217-f582f1865a3c",
+    "id": "01045ffd-6767-4ce7-aefc-f8281558fe97",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "__init_background",

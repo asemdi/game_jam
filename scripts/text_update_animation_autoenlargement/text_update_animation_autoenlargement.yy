@@ -1,5 +1,5 @@
 {
-    "id": "03f12b38-ef10-454b-a826-77ce23417d41",
+    "id": "83f5525a-5602-4611-9f37-edaf6e85d504",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_update_animation_autoenlargement",

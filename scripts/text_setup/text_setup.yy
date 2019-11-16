@@ -1,5 +1,5 @@
 {
-    "id": "84b04aba-fae2-4eed-918d-1b86ef0a92c1",
+    "id": "4d744048-0cda-4614-b35d-45054d9cf840",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_setup",

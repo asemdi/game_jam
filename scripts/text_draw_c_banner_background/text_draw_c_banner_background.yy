@@ -1,5 +1,5 @@
 {
-    "id": "db22a97b-653d-4971-9c9b-04e128563569",
+    "id": "a34fa2a7-92ad-423a-bd1d-7ddefe74b08a",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_draw_c_banner_background",

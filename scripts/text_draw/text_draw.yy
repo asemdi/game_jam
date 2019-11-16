@@ -1,5 +1,5 @@
 {
-    "id": "d82fefc4-4787-41dc-8e9f-c8f2ef4b20ff",
+    "id": "57d80d55-9497-4894-b468-2242e8082142",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_draw",

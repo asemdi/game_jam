@@ -1,5 +1,5 @@
 {
-    "id": "4c3938e3-c997-4a9d-a647-bde006840dc7",
+    "id": "ab625f09-cc99-4d68-bdb1-673681fa7790",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_update",

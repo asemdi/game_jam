@@ -1,5 +1,5 @@
 {
-    "id": "4f737f63-835e-4674-a8d7-0dc57994b473",
+    "id": "e595c511-4e70-4731-a9a1-9bba8655e805",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_draw_c_pointing_background",

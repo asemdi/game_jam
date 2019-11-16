@@ -1,5 +1,5 @@
 {
-    "id": "618b6bc7-aa24-4dc5-8005-44a7cab7d97e",
+    "id": "3e24c9bc-1e17-4985-812d-fe0763c54f15",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_demo5_lock",

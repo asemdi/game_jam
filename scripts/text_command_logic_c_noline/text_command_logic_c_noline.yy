@@ -1,5 +1,5 @@
 {
-    "id": "28074904-9d63-4a45-a977-da386540f7a7",
+    "id": "5fc6b154-7ea9-43d5-ac1c-3072dd5c0fb5",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_command_logic_c_noline",

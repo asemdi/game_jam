@@ -1,5 +1,5 @@
 {
-    "id": "54e9a60d-5f5f-4966-8bba-0a646a52d0ef",
+    "id": "e3eb8a20-8693-4978-8a61-a6b9c9574ab4",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_draw_c_pointing_name",

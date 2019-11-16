@@ -1,5 +1,5 @@
 {
-    "id": "6b0a7e79-6016-4868-bcaa-cf0a9c4ad222",
+    "id": "87d995ba-21b3-47d5-9c2e-8684360bfa77",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_command_logic_c_color",

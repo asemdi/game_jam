@@ -1,5 +1,5 @@
 {
-    "id": "0ad8ac9b-b240-4a59-95fe-bf40f9f742ec",
+    "id": "36d96d36-ffa8-40a3-b946-4d45c26cebd8",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_demo7_colors",

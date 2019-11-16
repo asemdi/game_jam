@@ -1,5 +1,5 @@
 {
-    "id": "49921944-7bae-4c10-a3a2-8d31866f2acf",
+    "id": "9405e37f-69a8-489a-a4fa-bf1be0d9e7bb",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "text_draw_c_banner_metadata",

@@ -1,0 +1,184 @@
+Converting GML script: ${project_dir}/scripts/text_setup/text_setup.gml
+Converted description /// @description text_setup()
+
+Converting GML script: ${project_dir}/scripts/text/text.gml
+Converted description /// @description text(command list,conversation id)/// @param command list
+/// @param conversation id
+
+Converting GML script: ${project_dir}/scripts/text_add_command/text_add_command.gml
+Converted description /// @description text_add_command(command list,command,argument1,argument2,...)/// @param command list
+/// @param command
+/// @param argument1
+/// @param argument2
+/// @param ...
+
+Converting GML script: ${project_dir}/scripts/text_get_state/text_get_state.gml
+Converted description /// @description text_get_state(conversation id,[instance id])/// @param conversation id
+/// @param [instance id]
+
+Converting GML script: ${project_dir}/scripts/text_reset_state/text_reset_state.gml
+Converted description /// @description text_reset_state(conversation id)/// @param conversation id
+
+Converting GML script: ${project_dir}/scripts/text_draw/text_draw.gml
+Converted builtin - line 28: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 28: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 20: view_wport -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 20: view_hport -> __view_get( e__VW.HPort, 0 )
+
+Converting GML script: ${project_dir}/scripts/text_update/text_update.gml
+Converted description /// @description text_update()
+
+Converting GML script: ${project_dir}/scripts/text_create_conversation/text_create_conversation.gml
+Converted description /// @description text_create_conversation(conversation,commands)/// @param conversation
+/// @param commands
+
+Converting GML script: ${project_dir}/scripts/text_action_pressed/text_action_pressed.gml
+Converted description /// @description text_action_pressed([conversation])/// @param [conversation]
+
+Converting GML script: ${project_dir}/scripts/text_room_to_surface_x/text_room_to_surface_x.gml
+Converted builtin - line 19: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_wview -> __view_get( e__VW.WView, 0 )
+Converted description /// @description text_room_to_surface_x(x)/// @param x
+
+Converting GML script: ${project_dir}/scripts/text_room_to_surface_y/text_room_to_surface_y.gml
+Converted builtin - line 19: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description text_room_to_surface_y(y)/// @param y
+
+Converting GML script: ${project_dir}/scripts/text_get_surface_w/text_get_surface_w.gml
+Converted description /// @description text_get_surface_w()
+
+Converting GML script: ${project_dir}/scripts/text_get_surface_h/text_get_surface_h.gml
+Converted description /// @description text_get_surface_h()
+
+Converting GML script: ${project_dir}/scripts/text_resize_surfaces/text_resize_surfaces.gml
+Converted builtin - line 35: view_wport -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 49: view_wport -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 35: view_hport -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 49: view_hport -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description text_resize_surfaces()
+
+Converting GML script: ${project_dir}/scripts/text_wait_input_textnext/text_wait_input_textnext.gml
+Converted description /// @description text_wait_input_textnext(displaystyle)/// @param displaystyle
+
+Converting GML script: ${project_dir}/scripts/text_ds_list_queue_head/text_ds_list_queue_head.gml
+Converted description /// @description text_ds_list_queue_head(ds_list)/// @param ds_list
+
+Converting GML script: ${project_dir}/scripts/text_ds_list_queue_dequeue/text_ds_list_queue_dequeue.gml
+Converted description /// @description text_ds_list_queue_dequeue(ds_list)/// @param ds_list
+
+Converting GML script: ${project_dir}/scripts/text_draw_roundrect_texture/text_draw_roundrect_texture.gml
+Converted description /// @description draw_roundrect_texture(x, y, x2, y2, rounding, background, circle precision, repeat)/// @param x
+/// @param  y
+/// @param  x2
+/// @param  y2
+/// @param  rounding
+/// @param  background
+/// @param  circle precision
+/// @param  repeat
+
+Converting GML script: ${project_dir}/scripts/text_draw_rectangle_texture/text_draw_rectangle_texture.gml
+Converted description /// @description text_draw_rectangle_texture(x, y, x2, y2, background, repeat)/// @param x
+/// @param  y
+/// @param  x2
+/// @param  y2
+/// @param  background
+/// @param  repeat
+
+Converting GML script: ${project_dir}/scripts/text_string_width/text_string_width.gml
+Converted description /// @description text_ds_list_queue_dequeue(line,textbox)/// @param line
+/// @param textbox
+
+Converting GML script: ${project_dir}/scripts/text_draw_logic/text_draw_logic.gml
+Converted description /// @description text_draw_logic()
+
+Converting GML script: ${project_dir}/scripts/text_draw_text/text_draw_text.gml
+Converted description /// @description text_draw_text(textbox)/// @param textbox
+
+Converting GML script: ${project_dir}/scripts/text_update_logic/text_update_logic.gml
+Converted description /// @description text_update_logic(conversation)/// @param conversation
+
+Converting GML script: ${project_dir}/scripts/text_update_logic_disappear/text_update_logic_disappear.gml
+Converted description /// @description text_update_logic_disappear(conversation)/// @param conversation
+
+Converting GML script: ${project_dir}/scripts/text_update_logic_disappear_sub/text_update_logic_disappear_sub.gml
+Converted description /// @description text_update_logic_disappear_sub(conversation)/// @param conversation
+
+Converting GML script: ${project_dir}/scripts/text_update_animation_autoenlargement/text_update_animation_autoenlargement.gml
+Converted description /// @description text_update_animation_autoenlargement(conversation)/// @param conversation
+
+Converting GML script: ${project_dir}/scripts/text_update_logic_continue/text_update_logic_continue.gml
+Converted description /// @description text_update_logic_continue(conversation)/// @param conversation
+
+Converting GML script: ${project_dir}/scripts/text_debugger/text_debugger.gml
+Converted description /// @description text_debugger(scriptname,level,message)/// @param scriptname
+/// @param level
+/// @param message
+
+Font fnt_speach has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach/fnt_speach.gms1.png
+Font fnt_speach_bold has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach_bold/fnt_speach_bold.gms1.png
+Font fnt_speach_bold_italic has been converted to font family Arial (Bold Italic)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach_bold_italic/fnt_speach_bold_italic.gms1.png
+Font fnt_speach_italic has been converted to font family Arial (Bold Italic)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach_italic/fnt_speach_italic.gms1.png
+Font fnt_speach_small has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach_small/fnt_speach_small.gms1.png
+Font fnt_speach_small_bold has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach_small_bold/fnt_speach_small_bold.gms1.png
+Font fnt_speach_small_bold_italic has been converted to font family Arial (Bold Italic)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach_small_bold_italic/fnt_speach_small_bold_italic.gms1.png
+Font fnt_speach_small_italic has been converted to font family Arial (Italic)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fnt_speach_small_italic/fnt_speach_small_italic.gms1.png
+Converting GML script: ${project_dir}/objects/obj_text_control/Create_0.gml
+Converted description /// @description Setup text
+
+Converting GML script: ${project_dir}/objects/obj_text_control/Step_0.gml
+Converted description /// @description Run text logic
+
+Converting GML script: ${project_dir}/objects/obj_text_control/Draw_0.gml
+Converted description /// @description Draw textboxes
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_player/Create_0.gml
+Converted description /// @description Create a variable that the text engine will use to lock the player
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_player/Step_2.gml
+Converted description /// @description Touch: Clear spacebar
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_player/Mouse_50.gml
+Converted description /// @description Touch controls
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_nothing/Create_0.gml
+Converted description /// @description This man just stands there doing nothing
+
+Converting GML script: ${project_dir}/objects/obj_text_demo/Step_0.gml
+Converted description /// @description Show a dialogue when player is near and presses space
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_onlyonce/Create_0.gml
+Converted description /// @description Create a variable that will store if this conversation has been completed
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_onlyonce/Step_0.gml
+Converted description /// @description Show a dialogue when player is near and presses space
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_walkby/Step_0.gml
+Converted description /// @description Show a dialogue when player walks by
+
+Converting GML script: ${project_dir}/objects/obj_text_demo_multi/Step_0.gml
+Converted description /// @description Show a dialogue when player walks by
+
+Added compatibility script 'action/action_if.gml'
+Added compatibility script 'action/action_if_empty.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'background/background_get_height.gml'
+Added compatibility script 'background/background_get_texture.gml'
+Added compatibility script 'background/background_get_width.gml'
+Added compatibility script 'texture/texture_set_repeat.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
