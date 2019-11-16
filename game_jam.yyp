@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "14cf9c79-1f0b-4463-beba-76ae3782f78f",
+            "Value": {
+                "id": "a3b453e3-f445-4b5e-bc31-8d633bcc0835",
+                "resourcePath": "sprites\/door_closing\/door_closing.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2502f839-43f2-4596-bbb0-83f74269f0af",
             "Value": {
                 "id": "63c6df58-ae54-4176-b292-82f5ed6d69b5",
@@ -114,7 +122,7 @@
             "Key": "6f2cc5c0-e999-4494-8aab-84cd9f252d4f",
             "Value": {
                 "id": "7e08500a-11ab-403b-b0c7-a963d8299565",
-                "resourcePath": "objects\/objterminal\/objterminal.yy",
+                "resourcePath": "objects\/obj_Terminal\/obj_Terminal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -186,7 +194,7 @@
             "Key": "993e6394-afa6-4d2a-832d-137aa4b88135",
             "Value": {
                 "id": "cb00639a-25eb-48ae-b826-27618f936570",
-                "resourcePath": "objects\/objwall\/objwall.yy",
+                "resourcePath": "objects\/obj_Wall\/obj_Wall.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -290,7 +298,7 @@
             "Key": "fd9b0553-23d8-4012-a1eb-f9204f364f59",
             "Value": {
                 "id": "79bb9749-dd3d-447b-95f2-94643a87ddd9",
-                "resourcePath": "objects\/objreem\/objreem.yy",
+                "resourcePath": "objects\/obj_Player\/obj_Player.yy",
                 "resourceType": "GMObject"
             }
         }
