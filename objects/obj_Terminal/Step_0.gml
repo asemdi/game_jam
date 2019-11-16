@@ -24,4 +24,3 @@ if (text_get_state(0) == 1) {
   //use a custom variable (as shown in obj_text_demo_onlyonce)
   text_reset_state(0);
 }
-
