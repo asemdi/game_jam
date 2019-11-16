@@ -1,10 +1,27 @@
 /// @description Insert description here
 // You can write your code in this editor
-key_left_pressed = keyboard_check(vk_left)
-key_right_pressed = keyboard_check(vk_right)
 
-move_dir = key_right_pressed - key_left_pressed
+if (keyboard_check(vk_right) && place_free(x + collisionSpeed, y)){
+x += walkSpeed;
+image_speed = walkSpeed/3;
+/*sprite_index = sprWalkRight;*/
+}
 
-m_move_h = move_dir * 4
+if (keyboard_check(vk_left) && place_free(x - collisionSpeed, y)){
+x -= walkSpeed;
+image_speed = walkSpeed/3;
+/*sprite_index = sprWalkLeft;*/
+}
 
-x += m_move_h
+if (keyboard_check(vk_down)&& place_free(x, y + collisionSpeed)){
+y += walkSpeed;
+image_speed = walkSpeed/3;
+/*sprite_index = sprWalkDown;*/
+}
+
+if (keyboard_check(vk_up) && place_free(x, y - collisionSpeed)){
+y -= walkSpeed;
+image_speed = walkSpeed/3;
+/*sprite_index = sprWalkUp;*/
+}
+
