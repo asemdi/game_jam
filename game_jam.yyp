@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "35de4ba9-e577-4c24-bc38-517918f5a38f",
+            "Value": {
+                "id": "cac4de49-fc59-4842-8756-bc2c57fdd5c2",
+                "resourcePath": "sprites\/reem_swoosh\/reem_swoosh.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "367b35d1-ece4-455e-8c45-4fb580dd893d",
             "Value": {
                 "id": "fdec76be-3e9a-4ffa-b7d5-0d6b689b9ec3",
@@ -420,6 +428,14 @@
                 "id": "fdf4a565-bddd-4bb2-89c7-c04d8f796c93",
                 "resourcePath": "scripts\/@action_move_to\/action_move_to.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4ae81cd6-767c-4d14-8635-2803e64b97b7",
+            "Value": {
+                "id": "c78e69f3-207c-4b95-aba2-1bc98ee4668b",
+                "resourcePath": "objects\/obj_WalkingRobot\/obj_WalkingRobot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1220,6 +1236,14 @@
                 "id": "721b7443-ce8b-42a3-8716-da7f496a03f5",
                 "resourcePath": "views\/c33ce7e6-9e73-4707-aa1a-c30752aa2546.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c56f0ebd-482d-4800-aa5c-7e4c3b5b069a",
+            "Value": {
+                "id": "221f71c4-fa86-4d6a-b397-b797b4792985",
+                "resourcePath": "objects\/obj_GameController\/obj_GameController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
