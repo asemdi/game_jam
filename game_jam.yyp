@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "2ff0d990-bcb4-42a0-8692-8dfa7d120729",
+            "Value": {
+                "id": "00863b4a-9a24-4fed-acd2-e322f923da86",
+                "resourcePath": "objects\/obj_Beginning\/obj_Beginning.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3017fc38-705f-4587-b531-cac151b93756",
             "Value": {
                 "id": "0ad205c6-d1bb-4147-90d7-ff09704cc388",
@@ -727,6 +735,14 @@
             }
         },
         {
+            "Key": "77879373-e7a3-4070-97de-dc16f7abd7b5",
+            "Value": {
+                "id": "b720ab07-69c7-4d29-8366-5d1b3c7f4c56",
+                "resourcePath": "rooms\/room3\/room3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "784b344d-fc4c-4fa2-9880-2e35f45d83ed",
             "Value": {
                 "id": "39ceea89-8cc2-4f7f-b6d5-ed5705aaf183",
@@ -851,6 +867,14 @@
             "Value": {
                 "id": "9ac7c015-23d9-4411-8f07-c9f48d202f28",
                 "resourcePath": "scripts\/text_get_surface_h\/text_get_surface_h.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8573b8e0-53b5-4088-afac-24b465bd2bd5",
+            "Value": {
+                "id": "e167bf1f-ae8a-4fc6-8e6a-8db236fbfed9",
+                "resourcePath": "scripts\/text_beginning\/text_beginning.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1721,7 +1745,8 @@
         "a541558d-4784-44f1-9beb-f01afab03575",
         "b287944a-acf5-4847-a896-8f99b2b6ade8",
         "79323b48-aaf9-4dc0-927e-f180a3239d31",
-        "90b9da91-e5f2-4371-bdcd-b2b256d9d0cf"
+        "90b9da91-e5f2-4371-bdcd-b2b256d9d0cf",
+        "8573b8e0-53b5-4088-afac-24b465bd2bd5"
     ],
     "tutorial": ""
 }
