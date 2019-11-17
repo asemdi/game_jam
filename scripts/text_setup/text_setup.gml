@@ -47,7 +47,7 @@ global.textvars = ds_map_create();
  * in multiplayer games
  * If you don't have players in your game set this to any controling object.
  */
-global.text_local_player = obj_text_demo_player.id;
+global.text_local_player = obj_Player;
 
 /*
  * Rounding of the nameplates

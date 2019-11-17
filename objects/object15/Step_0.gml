@@ -1,11 +1,14 @@
-/// @description Show a dialogue when player is near and presses space
-
+/// @description Insert description here
+// You can write your code in this editor
 if (keyboard_check_pressed(vk_space)) {
     //Checks if conversation is not already running and if player is near
-    if (text_get_state(0) == 0 && distance_to_object(global.text_local_player) < 40) {
+    
+	 show_message("wfwsdf");
+	 if (text_get_state(0) == 0) {
         //Now the script, that is set in the creation code, is called
         //I used the creation code for that so I don't have to create 12 objects...
-        script_execute(self.conv);
+        show_message("wfw");
+		text_beginning();
         //This will add the conversation with number 0 to this instance
         //Conversations are seperate for each instance, so other instances can also
         //create a conversation with id 0
