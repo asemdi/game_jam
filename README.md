@@ -19,4 +19,4 @@ Play the action RPG set in the dystopian future to decide the fate of your main 
 ## Demo
 ![](docs/static/demo1.gif)
 
-![](docs/static/demo1.gif)
+![](docs/static/demo2.gif)
