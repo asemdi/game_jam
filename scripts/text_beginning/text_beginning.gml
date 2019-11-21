@@ -1,5 +1,4 @@
 commands = ds_list_create();
-show_message("wtf");
 
 text_add_command(commands,"show");
 text_add_command(commands,"line","Mom? Dad?");

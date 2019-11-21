@@ -1,48 +1,48 @@
 {
-    "id": "c6bf65c0-361f-4ae7-8b49-635c6fef04e8",
+    "id": "4ae81cd6-767c-4d14-8635-2803e64b97b7",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_WalkingRobot",
     "eventList": [
         {
-            "id": "4d6ce17a-f120-48e8-b0e4-832df9565f84",
+            "id": "bf1e99e3-3a67-49e8-bc0f-497a31d12834",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "c6bf65c0-361f-4ae7-8b49-635c6fef04e8"
+            "m_owner": "4ae81cd6-767c-4d14-8635-2803e64b97b7"
         },
         {
-            "id": "cce2e6af-bb87-42c9-86fa-8199ecc86085",
+            "id": "93317e96-079d-4512-86a7-1840871a1226",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "c6bf65c0-361f-4ae7-8b49-635c6fef04e8"
+            "m_owner": "4ae81cd6-767c-4d14-8635-2803e64b97b7"
         },
         {
-            "id": "ad18d318-fe32-441b-b786-2d1505ad4e62",
+            "id": "88ecb804-fbf0-4f33-b0c0-a80af3098ea6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "c6bf65c0-361f-4ae7-8b49-635c6fef04e8"
+            "m_owner": "4ae81cd6-767c-4d14-8635-2803e64b97b7"
         },
         {
-            "id": "d32532ba-eb47-4aed-ac69-f64beb3e3441",
+            "id": "83d7f1a2-95eb-496e-aeee-a5f3b2993d6b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "993e6394-afa6-4d2a-832d-137aa4b88135",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "c6bf65c0-361f-4ae7-8b49-635c6fef04e8"
+            "eventtype": 2,
+            "m_owner": "4ae81cd6-767c-4d14-8635-2803e64b97b7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -63,7 +63,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "3ead9f7e-bb84-4155-bfe3-313760e8e1a4",
+            "id": "84c523ca-1b80-4567-8f1b-69d8da659c37",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -72,12 +72,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "7",
             "varName": "ray_count",
-            "varType": 0
+            "varType": 1
         },
         {
-            "id": "6e84ab13-2d12-40bb-b397-ab1dddb78a97",
+            "id": "990d29ed-91a7-4e56-a2e1-23ccc1167d82",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -86,23 +86,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "true",
-            "varName": "is_debug",
-            "varType": 0
-        },
-        {
-            "id": "dfeed9a0-870e-4540-9769-5ff23190a40c",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "200",
+            "value": "100",
             "varName": "vision_length",
             "varType": 0
+        },
+        {
+            "id": "5503843a-1fdd-4a60-af03-0e1c361f11c4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "is_debug",
+            "varType": 3
         }
     ],
     "solid": false,
