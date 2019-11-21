@@ -8,4 +8,15 @@ Humans managed to master weapons that were gathering dust on the shelves of hist
 
 ---
 
-Play the action RPG set in the dystopian future to decide the fate of your main character Reem, girl who was kidnapped by robots to be experimented upon.  
+Play the action RPG set in the dystopian future to decide the fate of your main character Reem, girl who was kidnapped by robots to be experimented upon.
+
+## Screenshots
+
+![](docs/static/screenshot1.png)
+
+![](docs/static/screenshot2.png)
+
+## Demo
+![](docs/static/demo1.gif)
+
+![](docs/static/demo1.gif)
